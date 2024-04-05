@@ -1,0 +1,201 @@
+handbag_id,brand,style,material,color,price,stock_quantity
+1,Brand 1,Shoulder Bag,Nylon,Color 1,144.78,99
+2,Brand 2,Hobo,Suede,Color 2,91.02,111
+3,Brand 3,Hobo,Denim,Color 3,164.87,18
+4,Brand 4,Clutch,Faux Leather,Color 4,286.87,91
+5,Brand 5,Shoulder Bag,Velvet,Color 5,206.17,49
+6,Brand 6,Shoulder Bag,Canvas,Color 6,250.63,25
+7,Brand 7,Crossbody Bag,Canvas,Color 7,294.45,101
+8,Brand 8,Backpack,Velvet,Color 8,39.34,158
+9,Brand 9,Clutch,Velvet,Color 9,76.96,95
+10,Brand 10,Shoulder Bag,Polyester,Color 10,255.64,72
+11,Brand 11,Hobo,Polyester,Color 11,95.31,138
+12,Brand 12,Tote,Nylon,Color 12,103.92,140
+13,Brand 13,Bucket Bag,Leather,Color 13,280.91,52
+14,Brand 14,Clutch,Faux Leather,Color 14,181.3,10
+15,Brand 15,Hobo,Suede,Color 15,221.9,198
+16,Brand 16,Bucket Bag,Velvet,Color 16,229.71,159
+17,Brand 17,Tote,Canvas,Color 17,123.1,198
+18,Brand 18,Crossbody Bag,Leather,Color 18,138.57,177
+19,Brand 19,Tote,Suede,Color 19,240.19,64
+20,Brand 20,Clutch,Velvet,Color 20,180.41,75
+21,Brand 21,Shoulder Bag,Nylon,Color 21,21.9,27
+22,Brand 22,Shoulder Bag,Denim,Color 22,109.04,162
+23,Brand 23,Clutch,Velvet,Color 23,81.79,130
+24,Brand 24,Hobo,Faux Leather,Color 24,191.23,76
+25,Brand 25,Clutch,Suede,Color 25,148.47,59
+26,Brand 26,Shoulder Bag,Leather,Color 26,195.27,60
+27,Brand 27,Shoulder Bag,Leather,Color 27,76.96,132
+28,Brand 28,Satchel,Canvas,Color 28,123.16,187
+29,Brand 29,Hobo,Velvet,Color 29,27.37,74
+30,Brand 30,Crossbody Bag,Suede,Color 30,220.67,155
+31,Brand 31,Crossbody Bag,Canvas,Color 31,151.26,112
+32,Brand 32,Bucket Bag,Velvet,Color 32,177.08,159
+33,Brand 33,Bucket Bag,Canvas,Color 33,171.74,52
+34,Brand 34,Hobo,Nylon,Color 34,298.72,17
+35,Brand 35,Shoulder Bag,Suede,Color 35,168.05,91
+36,Brand 36,Crossbody Bag,Canvas,Color 36,214.52,19
+37,Brand 37,Clutch,Nylon,Color 37,59.33,129
+38,Brand 38,Shoulder Bag,Canvas,Color 38,27.81,53
+39,Brand 39,Tote,Velvet,Color 39,43.03,179
+40,Brand 40,Crossbody Bag,Velvet,Color 40,115.01,13
+41,Brand 41,Tote,Faux Leather,Color 41,58.7,140
+42,Brand 42,Backpack,Polyester,Color 42,208.33,134
+43,Brand 43,Crossbody Bag,Velvet,Color 43,275.88,35
+44,Brand 44,Satchel,Canvas,Color 44,77.25,80
+45,Brand 45,Clutch,Denim,Color 45,54.23,138
+46,Brand 46,Tote,Denim,Color 46,62.52,43
+47,Brand 47,Shoulder Bag,Suede,Color 47,174.04,80
+48,Brand 48,Crossbody Bag,Suede,Color 48,290.32,191
+49,Brand 49,Shoulder Bag,Denim,Color 49,286.7,199
+50,Brand 50,Crossbody Bag,Denim,Color 50,130.45,143
+51,Brand 51,Crossbody Bag,Faux Leather,Color 51,77.03,193
+52,Brand 52,Clutch,Leather,Color 52,210.09,107
+53,Brand 53,Crossbody Bag,Faux Leather,Color 53,232.01,159
+54,Brand 54,Clutch,Polyester,Color 54,290.38,38
+55,Brand 55,Clutch,Leather,Color 55,212.92,84
+56,Brand 56,Crossbody Bag,Leather,Color 56,290.04,132
+57,Brand 57,Satchel,Canvas,Color 57,223.56,105
+58,Brand 58,Shoulder Bag,Suede,Color 58,109.21,39
+59,Brand 59,Crossbody Bag,Nylon,Color 59,128.43,81
+60,Brand 60,Clutch,Canvas,Color 60,123.35,37
+61,Brand 61,Shoulder Bag,Leather,Color 61,257.89,132
+62,Brand 62,Shoulder Bag,Leather,Color 62,136.71,89
+63,Brand 63,Tote,Faux Leather,Color 63,237.0,18
+64,Brand 64,Clutch,Faux Leather,Color 64,169.29,125
+65,Brand 65,Satchel,Polyester,Color 65,120.31,69
+66,Brand 66,Bucket Bag,Denim,Color 66,173.01,58
+67,Brand 67,Satchel,Suede,Color 67,133.4,30
+68,Brand 68,Hobo,Leather,Color 68,67.09,25
+69,Brand 69,Clutch,Faux Leather,Color 69,282.66,96
+70,Brand 70,Clutch,Nylon,Color 70,81.3,15
+71,Brand 71,Satchel,Denim,Color 71,210.86,191
+72,Brand 72,Hobo,Nylon,Color 72,263.98,81
+73,Brand 73,Crossbody Bag,Polyester,Color 73,267.66,27
+74,Brand 74,Backpack,Leather,Color 74,238.54,53
+75,Brand 75,Satchel,Nylon,Color 75,183.49,89
+76,Brand 76,Bucket Bag,Faux Leather,Color 76,233.72,172
+77,Brand 77,Shoulder Bag,Denim,Color 77,163.34,173
+78,Brand 78,Bucket Bag,Denim,Color 78,205.19,162
+79,Brand 79,Satchel,Polyester,Color 79,214.87,99
+80,Brand 80,Crossbody Bag,Suede,Color 80,47.11,186
+81,Brand 81,Crossbody Bag,Leather,Color 81,184.59,190
+82,Brand 82,Hobo,Leather,Color 82,75.32,169
+83,Brand 83,Bucket Bag,Leather,Color 83,38.93,25
+84,Brand 84,Bucket Bag,Leather,Color 84,143.88,51
+85,Brand 85,Hobo,Denim,Color 85,262.27,178
+86,Brand 86,Satchel,Velvet,Color 86,153.75,161
+87,Brand 87,Backpack,Suede,Color 87,235.24,19
+88,Brand 88,Shoulder Bag,Velvet,Color 88,215.82,53
+89,Brand 89,Crossbody Bag,Velvet,Color 89,235.4,22
+90,Brand 90,Bucket Bag,Leather,Color 90,56.13,93
+91,Brand 91,Hobo,Nylon,Color 91,119.91,90
+92,Brand 92,Crossbody Bag,Polyester,Color 92,264.45,30
+93,Brand 93,Clutch,Polyester,Color 93,140.09,154
+94,Brand 94,Crossbody Bag,Denim,Color 94,47.82,122
+95,Brand 95,Tote,Leather,Color 95,287.74,106
+96,Brand 96,Clutch,Velvet,Color 96,46.29,53
+97,Brand 97,Backpack,Faux Leather,Color 97,208.91,155
+98,Brand 98,Crossbody Bag,Nylon,Color 98,65.49,15
+99,Brand 99,Crossbody Bag,Leather,Color 99,142.8,45
+100,Brand 100,Clutch,Velvet,Color 100,232.18,167
+101,Brand 101,Bucket Bag,Nylon,Color 101,222.59,136
+102,Brand 102,Tote,Faux Leather,Color 102,293.99,120
+103,Brand 103,Satchel,Polyester,Color 103,149.86,126
+104,Brand 104,Shoulder Bag,Polyester,Color 104,34.22,170
+105,Brand 105,Hobo,Canvas,Color 105,279.08,20
+106,Brand 106,Tote,Denim,Color 106,80.29,113
+107,Brand 107,Clutch,Canvas,Color 107,211.77,87
+108,Brand 108,Clutch,Polyester,Color 108,34.79,86
+109,Brand 109,Crossbody Bag,Leather,Color 109,108.63,131
+110,Brand 110,Backpack,Canvas,Color 110,201.46,74
+111,Brand 111,Satchel,Faux Leather,Color 111,55.68,193
+112,Brand 112,Tote,Leather,Color 112,219.0,144
+113,Brand 113,Bucket Bag,Denim,Color 113,296.99,105
+114,Brand 114,Tote,Velvet,Color 114,268.24,27
+115,Brand 115,Satchel,Leather,Color 115,44.08,63
+116,Brand 116,Hobo,Nylon,Color 116,20.59,54
+117,Brand 117,Clutch,Suede,Color 117,77.1,100
+118,Brand 118,Backpack,Faux Leather,Color 118,131.56,148
+119,Brand 119,Clutch,Denim,Color 119,131.16,149
+120,Brand 120,Clutch,Polyester,Color 120,88.42,87
+121,Brand 121,Hobo,Faux Leather,Color 121,22.15,129
+122,Brand 122,Bucket Bag,Canvas,Color 122,251.58,59
+123,Brand 123,Clutch,Faux Leather,Color 123,256.31,157
+124,Brand 124,Hobo,Denim,Color 124,172.86,142
+125,Brand 125,Shoulder Bag,Polyester,Color 125,182.56,152
+126,Brand 126,Crossbody Bag,Faux Leather,Color 126,22.76,28
+127,Brand 127,Crossbody Bag,Suede,Color 127,186.65,87
+128,Brand 128,Clutch,Canvas,Color 128,33.7,22
+129,Brand 129,Backpack,Polyester,Color 129,191.53,91
+130,Brand 130,Backpack,Nylon,Color 130,31.98,89
+131,Brand 131,Crossbody Bag,Velvet,Color 131,221.67,58
+132,Brand 132,Hobo,Faux Leather,Color 132,263.87,47
+133,Brand 133,Shoulder Bag,Velvet,Color 133,37.77,105
+134,Brand 134,Shoulder Bag,Leather,Color 134,182.02,97
+135,Brand 135,Crossbody Bag,Velvet,Color 135,248.14,156
+136,Brand 136,Crossbody Bag,Polyester,Color 136,72.02,196
+137,Brand 137,Crossbody Bag,Faux Leather,Color 137,86.57,92
+138,Brand 138,Backpack,Nylon,Color 138,71.13,78
+139,Brand 139,Tote,Velvet,Color 139,299.05,13
+140,Brand 140,Shoulder Bag,Leather,Color 140,210.85,136
+141,Brand 141,Backpack,Nylon,Color 141,224.71,42
+142,Brand 142,Bucket Bag,Denim,Color 142,229.46,132
+143,Brand 143,Hobo,Canvas,Color 143,82.68,189
+144,Brand 144,Backpack,Velvet,Color 144,219.33,151
+145,Brand 145,Shoulder Bag,Suede,Color 145,257.2,69
+146,Brand 146,Satchel,Faux Leather,Color 146,223.61,143
+147,Brand 147,Tote,Suede,Color 147,298.09,45
+148,Brand 148,Backpack,Polyester,Color 148,274.21,124
+149,Brand 149,Tote,Nylon,Color 149,138.71,43
+150,Brand 150,Crossbody Bag,Faux Leather,Color 150,174.91,171
+151,Brand 151,Tote,Leather,Color 151,286.62,53
+152,Brand 152,Tote,Velvet,Color 152,232.76,82
+153,Brand 153,Hobo,Suede,Color 153,95.25,199
+154,Brand 154,Satchel,Velvet,Color 154,213.78,172
+155,Brand 155,Crossbody Bag,Nylon,Color 155,299.13,51
+156,Brand 156,Satchel,Faux Leather,Color 156,242.37,150
+157,Brand 157,Shoulder Bag,Suede,Color 157,58.32,49
+158,Brand 158,Tote,Canvas,Color 158,216.9,31
+159,Brand 159,Bucket Bag,Canvas,Color 159,227.91,53
+160,Brand 160,Satchel,Polyester,Color 160,179.67,70
+161,Brand 161,Crossbody Bag,Velvet,Color 161,192.33,10
+162,Brand 162,Satchel,Canvas,Color 162,257.94,182
+163,Brand 163,Backpack,Canvas,Color 163,71.65,158
+164,Brand 164,Shoulder Bag,Polyester,Color 164,267.56,161
+165,Brand 165,Backpack,Canvas,Color 165,285.84,112
+166,Brand 166,Bucket Bag,Canvas,Color 166,76.41,69
+167,Brand 167,Bucket Bag,Faux Leather,Color 167,102.79,160
+168,Brand 168,Bucket Bag,Polyester,Color 168,229.75,139
+169,Brand 169,Clutch,Leather,Color 169,267.2,200
+170,Brand 170,Clutch,Denim,Color 170,258.49,23
+171,Brand 171,Crossbody Bag,Denim,Color 171,233.51,83
+172,Brand 172,Tote,Leather,Color 172,64.78,25
+173,Brand 173,Crossbody Bag,Denim,Color 173,228.66,150
+174,Brand 174,Tote,Leather,Color 174,279.0,192
+175,Brand 175,Crossbody Bag,Velvet,Color 175,291.14,152
+176,Brand 176,Shoulder Bag,Canvas,Color 176,256.19,125
+177,Brand 177,Bucket Bag,Leather,Color 177,184.38,135
+178,Brand 178,Bucket Bag,Suede,Color 178,154.03,33
+179,Brand 179,Crossbody Bag,Suede,Color 179,79.67,37
+180,Brand 180,Clutch,Nylon,Color 180,37.52,191
+181,Brand 181,Backpack,Faux Leather,Color 181,206.77,18
+182,Brand 182,Satchel,Polyester,Color 182,50.84,53
+183,Brand 183,Crossbody Bag,Polyester,Color 183,81.4,152
+184,Brand 184,Shoulder Bag,Nylon,Color 184,124.56,141
+185,Brand 185,Backpack,Suede,Color 185,111.36,188
+186,Brand 186,Shoulder Bag,Suede,Color 186,108.41,114
+187,Brand 187,Shoulder Bag,Faux Leather,Color 187,78.86,188
+188,Brand 188,Backpack,Canvas,Color 188,32.08,195
+189,Brand 189,Shoulder Bag,Velvet,Color 189,239.4,139
+190,Brand 190,Hobo,Faux Leather,Color 190,28.8,97
+191,Brand 191,Crossbody Bag,Nylon,Color 191,88.18,149
+192,Brand 192,Bucket Bag,Velvet,Color 192,222.67,156
+193,Brand 193,Clutch,Polyester,Color 193,29.19,99
+194,Brand 194,Shoulder Bag,Faux Leather,Color 194,248.69,154
+195,Brand 195,Clutch,Nylon,Color 195,50.92,153
+196,Brand 196,Backpack,Suede,Color 196,248.61,175
+197,Brand 197,Clutch,Suede,Color 197,247.25,120
+198,Brand 198,Tote,Nylon,Color 198,26.72,169
+199,Brand 199,Satchel,Faux Leather,Color 199,189.89,186
+200,Brand 200,Backpack,Canvas,Color 200,45.06,182
