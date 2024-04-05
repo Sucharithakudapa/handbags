@@ -1,0 +1,101 @@
+handbag_id,brand,style,material,color,price,stock_quantity
+1,Brand 8,Satchel,Suede,red,142.41,193
+2,Brand 6,Crossbody Bag,Leather,red,78.44,56
+3,Brand 9,Crossbody Bag,Canvas,red,33.89,152
+4,Brand 6,Crossbody Bag,Polyester,red,273.36,70
+5,Brand 10,Hobo,Velvet,red,218.75,70
+6,Brand 4,Bucket Bag,Nylon,red,241.84,167
+7,Brand 10,Crossbody Bag,Velvet,red,101.06,143
+8,Brand 9,Crossbody Bag,Faux Leather,red,222.23,57
+9,Brand 7,Backpack,Polyester,red,275.71,17
+10,Brand 8,Bucket Bag,Faux Leather,red,94.0,164
+11,Brand 7,Hobo,Suede,red,276.57,183
+12,Brand 7,Tote,Faux Leather,red,260.65,176
+13,Brand 9,Backpack,Leather,red,95.21,68
+14,Brand 7,Backpack,Canvas,red,190.48,24
+15,Brand 10,Tote,Nylon,red,135.07,65
+16,Brand 8,Shoulder Bag,Canvas,red,156.13,88
+17,Brand 3,Bucket Bag,Velvet,red,94.63,154
+18,Brand 4,Hobo,Suede,red,276.21,116
+19,Brand 8,Crossbody Bag,Suede,red,116.97,34
+20,Brand 6,Bucket Bag,Faux Leather,red,180.82,69
+21,Brand 9,Shoulder Bag,Faux Leather,red,167.4,109
+22,Brand 1,Backpack,Suede,red,130.33,86
+23,Brand 8,Shoulder Bag,Velvet,red,132.42,161
+24,Brand 8,Crossbody Bag,Canvas,red,173.34,93
+25,Brand 6,Bucket Bag,Leather,red,58.18,10
+26,Brand 10,Satchel,Leather,red,41.23,151
+27,Brand 1,Bucket Bag,Polyester,red,45.09,151
+28,Brand 4,Tote,Leather,red,209.76,20
+29,Brand 4,Tote,Nylon,red,103.99,108
+30,Brand 1,Crossbody Bag,Velvet,red,44.6,191
+31,Brand 3,Hobo,Velvet,blue,286.75,27
+32,Brand 8,Satchel,Leather,blue,86.39,27
+33,Brand 1,Tote,Nylon,blue,47.79,88
+34,Brand 9,Crossbody Bag,Polyester,blue,61.89,88
+35,Brand 6,Bucket Bag,Velvet,blue,41.18,152
+36,Brand 8,Bucket Bag,Canvas,blue,284.63,162
+37,Brand 6,Crossbody Bag,Velvet,blue,70.82,21
+38,Brand 7,Satchel,Nylon,blue,194.16,143
+39,Brand 4,Bucket Bag,Nylon,blue,159.12,137
+40,Brand 8,Hobo,Suede,blue,293.91,40
+41,Brand 1,Tote,Polyester,blue,158.23,88
+42,Brand 9,Shoulder Bag,Velvet,blue,288.1,35
+43,Brand 1,Hobo,Nylon,blue,206.95,99
+44,Brand 10,Hobo,Faux Leather,blue,117.2,169
+45,Brand 5,Clutch,Faux Leather,blue,254.07,33
+46,Brand 6,Tote,Leather,blue,150.15,118
+47,Brand 7,Crossbody Bag,Leather,blue,246.43,198
+48,Brand 5,Bucket Bag,Velvet,blue,57.77,16
+49,Brand 4,Crossbody Bag,Faux Leather,blue,158.65,165
+50,Brand 6,Crossbody Bag,Leather,blue,119.94,35
+51,Brand 4,Hobo,Velvet,blue,287.47,16
+52,Brand 3,Shoulder Bag,Faux Leather,blue,235.8,118
+53,Brand 6,Satchel,Faux Leather,blue,276.58,14
+54,Brand 6,Clutch,Velvet,blue,67.67,12
+55,Brand 1,Shoulder Bag,Suede,blue,177.25,115
+56,Brand 9,Crossbody Bag,Faux Leather,green,77.95,102
+57,Brand 4,Bucket Bag,Suede,green,212.32,38
+58,Brand 4,Shoulder Bag,Polyester,green,262.0,153
+59,Brand 9,Bucket Bag,Leather,green,61.77,55
+60,Brand 4,Clutch,Leather,green,133.28,18
+61,Brand 7,Satchel,Canvas,green,212.67,100
+62,Brand 5,Crossbody Bag,Velvet,green,286.77,15
+63,Brand 4,Crossbody Bag,Denim,green,74.89,104
+64,Brand 6,Satchel,Canvas,green,96.53,39
+65,Brand 1,Bucket Bag,Polyester,green,123.92,33
+66,Brand 8,Tote,Leather,green,103.72,161
+67,Brand 8,Clutch,Denim,green,30.1,160
+68,Brand 8,Shoulder Bag,Nylon,green,178.01,165
+69,Brand 7,Clutch,Velvet,green,255.77,18
+70,Brand 7,Clutch,Canvas,green,84.05,12
+71,Brand 5,Backpack,Velvet,green,194.76,36
+72,Brand 4,Crossbody Bag,Canvas,green,63.67,198
+73,Brand 9,Shoulder Bag,Denim,green,71.33,155
+74,Brand 1,Bucket Bag,Velvet,green,288.52,67
+75,Brand 6,Backpack,Faux Leather,green,126.58,40
+76,Brand 3,Clutch,Denim,yellow,170.95,107
+77,Brand 4,Bucket Bag,Canvas,yellow,159.23,159
+78,Brand 9,Satchel,Canvas,yellow,101.61,155
+79,Brand 8,Hobo,Leather,yellow,64.19,159
+80,Brand 5,Hobo,Velvet,yellow,222.62,54
+81,Brand 8,Clutch,Nylon,yellow,51.76,97
+82,Brand 9,Shoulder Bag,Suede,yellow,150.13,95
+83,Brand 2,Backpack,Leather,yellow,189.82,84
+84,Brand 6,Tote,Denim,yellow,68.99,159
+85,Brand 2,Clutch,Leather,yellow,241.67,193
+86,Brand 8,Bucket Bag,Nylon,yellow,44.7,12
+87,Brand 5,Hobo,Suede,yellow,230.55,196
+88,Brand 9,Crossbody Bag,Nylon,yellow,259.8,54
+89,Brand 1,Crossbody Bag,Polyester,yellow,42.82,76
+90,Brand 7,Backpack,Canvas,yellow,157.59,51
+91,Brand 5,Clutch,Denim,yellow,225.52,175
+92,Brand 1,Clutch,Faux Leather,yellow,221.65,89
+93,Brand 10,Shoulder Bag,Denim,yellow,192.67,43
+94,Brand 8,Satchel,Canvas,yellow,103.32,100
+95,Brand 1,Tote,Leather,yellow,71.01,164
+96,Brand 5,Shoulder Bag,Nylon,yellow,153.74,26
+97,Brand 10,Crossbody Bag,Nylon,yellow,226.57,157
+98,Brand 1,Shoulder Bag,Faux Leather,yellow,263.68,23
+99,Brand 2,Bucket Bag,Polyester,yellow,213.31,35
+100,Brand 1,Hobo,Leather,yellow,126.85,188
